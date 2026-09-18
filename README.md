@@ -408,7 +408,6 @@ Further penetration testing phases can build on these findings to assess the sec
 
 ## 8. Evidence
 
-The following evidence can be included in this repository:
 <img width="1366" height="662" alt="whois" src="https://github.com/user-attachments/assets/aab1affb-627e-4052-b71e-252358879f13" />
 
 
