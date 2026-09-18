@@ -419,8 +419,6 @@ Further penetration testing phases can build on these findings to assess the sec
 <img width="1366" height="662" alt="dns" src="https://github.com/user-attachments/assets/377b0b2a-abb6-42fd-ae52-766aba660b0f" />
 <img width="1366" height="662" alt="waf" src="https://github.com/user-attachments/assets/9996334c-f80a-4fc8-adea-0d28b5421887" />
 <img width="1366" height="662" alt="dns0" src="https://github.com/user-attachments/assets/7107d729-cdf6-41f7-8b6a-041a01ca50e0" />
-<img width="1366" height="627" alt="zenmap" src="https://github.com/user-attachments/assets/6bed3a9e-8c22-40cc-9e5e-381bec902cc1" />
-<img width="1366" height="627" alt="zenm" src="https://github.com/user-attachments/assets/c089ebe7-79d4-44d0-a775-b37bc877b7fd" />
 
 ---
 
